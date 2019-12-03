@@ -17,4 +17,3 @@ print(x.dtype)
 <class 'numpy.ndarray'>
 (2, 3)
 int32
-
